@@ -3,6 +3,9 @@ title: Model Usability Checker
 descriptions: ORT Mobile model usability checker.
 parent: Mobile
 grand_parent: Reference
+# parent: Model Export Helpers
+# grand_parent: Mobile
+nav_exclude: true
 ---
 # Model Usability Checker
 {: .no_toc }

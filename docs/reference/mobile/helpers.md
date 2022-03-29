@@ -1,9 +1,8 @@
 ---
-title: ORT Mobile Model Export Helpers
-descriptions: Helpers to assist with export and usage of models with ORT Mobile
+title: Model Export Helpers
 parent: Mobile
 grand_parent: Reference
-nav_order: 1
+has_children: true
 ---
 
 # ORT Mobile Model Export Helpers
